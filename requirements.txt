@@ -1,0 +1,6 @@
+streamlit
+sounddevice
+numpy
+wave
+whisper
+os
